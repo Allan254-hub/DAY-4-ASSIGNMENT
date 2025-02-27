@@ -96,19 +96,32 @@ How Gantt Charts Assist in Scheduling
       d) Security & Privacy – Protecting sensitive data from cyber threats e.g., encryption software.
 
 
-9) How can clearly defining the problem help in developing a more effective software solution?
+9. How can clearly defining the problem help in developing a more effective software solution?
      a) Identifying User Needs – Ensures the solution directly addresses main points.
      b) Optimizing Resource Allocation – Saves time and costs by prioritizing key functionalities.
      c) Enhancing Communication – Aligns stakeholders and development teams.
      d) Facilitating Testing & Validation – Sets measurable success criteria for quality assurance.
 
 
-10) How would you describe your software solution in a way that captures its essence without diving into technical details?
+10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+Our software system operates business processes with automated tasks and minimizes mistakes together with saved operational time. The platform creates a simplified and easy-to-use operational environment which lets teams join forces and easily reach essential data bases. Different user needs activate the software which helps people maintain productivity while staying organized to focus on important matters.
 
 
+11. What are the main features or functionalities that make your software stand out?
+    a) User-Friendly Interface – Intuitive design that makes navigation easy for all users.
+    b) Automation & Efficiency – Reducing manual work with smart automation features.
+    c) Scalability – Ability to grow and handle increased users or data without performance issues.
+    d) Customization & Flexibility – Allowing users to tailor the software to their needs.
+    e) Security & Privacy – Strong data protection measures to prevent breaches.
+
+12. What data is available regarding the market size and growth potential for your software?
+
+    a) Mobile App Market – The global app economy is set to exceed $600 billion by 2027, with growing demand for mobile-first solutions.
+    b) Cybersecurity Software – Due to rising cyber threats, cybersecurity software is projected to reach $500 billion+ by 2030
 
 
-
-What are the main features or functionalities that make your software stand out?
-What data is available regarding the market size and growth potential for your software?
-How can understanding market trends inform your software’s positioning and development?
+13. How can understanding market trends inform your software’s positioning and development?
+    a) Competitive Differentiation – Allows positioning the software uniquely against competitors.
+    b) Enhancing Scalability & Security – Addresses rising concerns like cybersecurity and high-performance demands.
+    c) Improving User Experience – Aligns design and functionality with modern usability expectations.

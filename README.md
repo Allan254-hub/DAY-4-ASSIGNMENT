@@ -1,10 +1,10 @@
 # DAY-4-ASSIGNMENT
 1. Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
-   a) Effective Planning – Define clear goals, timelines, and milestones.
-   b) Resource Management – Allocate the right team members and tools efficiently.
-   c) Risk Management – Identify potential risks early and have mitigation strategies
-   d) Communication & Collaboration – Maintain transparent communication with stakeholders and teams.
-   e) Monitoring & Adjustments – Regularly review progress and make necessary adjustments
+a) Effective Planning – Define clear goals, timelines, and milestones.
+b) Resource Management – Allocate the right team members and tools efficiently.
+c) Risk Management – Identify potential risks early and have mitigation strategies
+d) Communication & Collaboration – Maintain transparent communication with stakeholders and teams.
+e) Monitoring & Adjustments – Regularly review progress and make necessary adjustments
 
 
 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
